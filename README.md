@@ -21,7 +21,6 @@ This project demonstrates CRUD operations, REST API integration, and database pe
 
 ### Frontend
 - React (Vite)
-- Lovable-generated UI
 - shadcn/ui components
 - React Hook Form + Zod (validation)
 - React Query (data fetching & caching)
